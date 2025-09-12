@@ -1,7 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-
 /* Core drama */
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
