@@ -42,14 +42,14 @@
 		<meta property="term" refines="#subject-1">sh85043345</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">On a pleasant summer afternoon, the sudden arrival of a crashed plane and then a would-be assassin interrupt conversations about marriage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Hypatia, daughter of the newly wealthy underwear manufacturer John Tarleton, is at home with her parents and older brother Johnny and being visited by her fiancé Bentley and his father Lord Summerhill, formerly a governor of a British colonial territory. Their afternoon is interrupted twice: first by the arrival of a crashed airplane carrying Joey Percival and Lina Szczepanowska, a handsome friend of Bentley’s and a circus daredevil and acrobat, and then by a disaffected store clerk, who intends to assassinate John Tarleton. Over the course of the summer afternoon, eight proposals of marriage are offered and discussed; which of them might make a good match, and which a misalliance?&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Misalliance&lt;/i&gt; continues the work of &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; in exploring through satire the nature of marriage, the liberation of women, and the philosophy of relationships between parents and their children. It was first performed in London in 1910, and has been run on Broadway and revived multiple times since.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/943</dc:source>
 		<dc:source>https://archive.org/details/misalliancedarkl0000shaw</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Misalliance_(play)</meta>
