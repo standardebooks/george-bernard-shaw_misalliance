@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="misalliance.xhtml">
 		<ignore code="t-017">
+			<line>135</line>
 			<reason>Punctuation genuinely in pamphlet title.</reason>
 		</ignore>
 	</file>
